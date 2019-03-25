@@ -1,0 +1,37 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.cabecalho__menu li{
+    display: inline-block;
+    margin: 20px;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.botao li {
+    display: inline-block;
+    margin: 20px;
+}
+
+
+.paragrafo__left {
+    display: inline-block;
+    width: 40%;
+}
+
+.paragrafo__direito {
+    display: inline-block;
+    width: 40%;  
+}
+
+.quadradinhos {
+    display: inline-block;
+    margin: 25px;
+}
